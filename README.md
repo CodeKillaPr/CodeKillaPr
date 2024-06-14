@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nelson Betancourt Aponte</h1>
 <h3 align="center">A passionate student of Puerto Rico</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=codekillapr&label=aws&color=0e75b6&style=plastic" alt="codekillapr" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=codekillapr&label=VIEWS&color=00bdba&style=flat" alt="codekillapr" /> </p>
 
 - 🔭 I’m currently working on [Holberton-hbnb](https://github.com/CodeKillaPr/holbertonschool-hbnb)
 
