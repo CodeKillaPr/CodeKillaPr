@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Python and javascript**
 
-- 👯 I’m looking to collaborate on [MEDICOGO WEB](https://github.com/CodeKillaPr/medicogo_website)
+- 👯 I’m looking to collaborate on a WebSite
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
