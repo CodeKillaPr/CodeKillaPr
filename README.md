@@ -23,7 +23,7 @@
 
 <h3> BADGES </h3>
 
-![AWS Cloud Quest: Cloud Practitioner](./img/aws-cloud-quest-cloud-practitioner%20(1).png)
+[![AWS Cloud Quest: Cloud Practitioner](./img/aws-cloud-quest-cloud-practitioner%20(3).png)](https://www.credly.com/badges/e5727c93-fc7a-472a-a587-ee6bdb2c3aee/public_url)
 
 <h3 align="left">Connect with me: <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50"> </h3>
 <p align="left">
