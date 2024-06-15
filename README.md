@@ -1,5 +1,5 @@
 <div align="center">
-  <a src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=435&lines=Welcome+to+CodeKillaPR;Github!" alt="Typing SVG" /></a>
+  <a href="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=435&lines=Welcome+to+CodeKillaPR;Github!" alt="Typing SVG" /></a>
 </div>
 
 <div align="center">
