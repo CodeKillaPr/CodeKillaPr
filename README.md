@@ -22,6 +22,7 @@
 - 👯 I’m looking to collaborate on a WebSite
 
 <h3> BADGES </h3>
+![AWS Cloud Quest: Cloud Practitioner](https://tu-url-del-badge.com/badge.png](https://www.credly.com/badges/e5727c93-fc7a-472a-a587-ee6bdb2c3aee/public_url)
 
 
 
