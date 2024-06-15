@@ -2,7 +2,10 @@
 <h2><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00F7BB&random=false&width=435&lines=Welcome+to+CodeKillaPR" alt="Typing SVG" /></h2>
 </div>
 
-<h3 align="center">A passionate student of Puerto Rico</h3>
+<div align="center">
+  <h2>ABOUT ME</h2>
+  <P>I'm a Software Engineer</P>
+</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codekillapr&label=VIEWS&color=00bdba&style=flat" alt="codekillapr" /> </p>
 
