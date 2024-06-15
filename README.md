@@ -4,7 +4,7 @@
 
 <div align="center">
   <h2>ABOUT ME</h2>
-  <p>I'm a Software Engineer</p>
+  <p>I'm a Software Engineer Student from Puerto Rico</p>
 </div>
 
 
