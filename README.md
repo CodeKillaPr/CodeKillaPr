@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on a WebSite
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50"> </h3>
 <p align="left">
 <a href="https://instagram.com/codekillapr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="codekillapr" height="30" width="40" /></a>
 <a href="https://discord.gg/killapr." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="killapr." height="30" width="40" /></a>
