@@ -22,7 +22,7 @@
 - 👯 I’m looking to collaborate on a WebSite
 
 <h3> BADGES </h3>
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="e5727c93-fc7a-472a-a587-ee6bdb2c3aee" data-share-badge-host="https://www.credly.com"></div>
+
 
 
 <h3 align="left">Connect with me: <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50"> </h3>
