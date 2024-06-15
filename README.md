@@ -22,10 +22,12 @@
 <h2> Tools  <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = "32"> </h2>
 <p align='left'>
 
-<img src ="https://cutt.ly/HDqbjil" alt="vscode" width="50" height="50">
-<img src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="50" height="50">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/> </a>
-<a href="https://git-scm.com/" target="_blank"> <img src="https://cutt.ly/2DqbVgb" alt="git" width="50" height="50"/> </a>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=codekillapr&show_icons=true&theme=dark&title_color=00ffe1&text_color=00ffe1&locale=en&layout=compact" alt="codekillapr" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codekillapr&show_icons=true&theme=dark&title_color=00fadc&text_color=00ffe1&locale=en" alt="codekillapr" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codekillapr&theme=dark" alt="codekillapr" /></p>
+
 
                                                                                    
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=codekillapr&show_icons=true&theme=dark&title_color=00ffe1&locale=en&layout=compact" alt="codekillapr" /></p>
