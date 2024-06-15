@@ -1,7 +1,5 @@
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00F7BB&repeat=false&random=false&width=435&lines=Welcome+to+CodeKillaPR" alt="Typing SVG" />
-  </a>
+<h2><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00F7BB&repeat=false&random=false&width=435&lines=Welcome+to+CodeKillaPR" alt="Typing SVG" /></h2>
 </div>
 
 <h3 align="center">A passionate student of Puerto Rico</h3>
