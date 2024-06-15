@@ -40,7 +40,7 @@
 
 
 <img src ="https://cutt.ly/HDqbjil" alt="vscode" width="50" height="50">
-<img src ="[https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg](https://commons.wikimedia.org/wiki/File:UbuntuCoF.svg)" alt="ubuntu" color="orange" width="50" height="50">
+<img src ="https://commons.wikimedia.org/wiki/File:UbuntuCoF.svg" alt="ubuntu" color="orange" width="50" height="50">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/> </a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://cutt.ly/2DqbVgb" alt="git" width="50" height="50"/> </a>
 
