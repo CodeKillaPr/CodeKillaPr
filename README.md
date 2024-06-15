@@ -28,10 +28,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codekillapr&theme=dark" alt="codekillapr" /></p>
 
-
-                                                                                   
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=codekillapr&show_icons=true&theme=dark&title_color=00ffe1&locale=en&layout=compact" alt="codekillapr" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codekillapr&show_icons=true&theme=dark&locale=en" alt="codekillapr" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codekillapr&theme=dark" alt="codekillapr" /></p>
