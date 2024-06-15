@@ -22,7 +22,7 @@
 - 👯 I’m looking to collaborate on a WebSite
 
 <h3> BADGES </h3>
-[![AWS Certified]([https://images.credly.com/size/340x340/images/12345/aws-certified.png](https://images.credly.com/size/220x220/images/2784d0d8-327c-406f-971e-9f0e15097003/image.png))](https://www.credly.com/badges/e5727c93-fc7a-472a-a587-ee6bdb2c3aee)
+[![AWS Certified](https://images.credly.com/images/2784d0d8-327c-406f-971e-9f0e15097003/image.png)](https://www.credly.com/badges/e5727c93-fc7a-472a-a587-ee6bdb2c3aee)
 
 
 <h3 align="left">Connect with me: <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50"> </h3>
