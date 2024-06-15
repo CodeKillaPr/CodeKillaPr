@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = "35"> I'm Nelson Betancourt Aponte</h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00F7BB&repeat=false&random=false&width=435&lines=Welcome+to+CodeKillaPR" alt="Typing SVG" /></a>
 <h3 align="center">A passionate student of Puerto Rico</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codekillapr&label=VIEWS&color=00bdba&style=flat" alt="codekillapr" /> </p>
