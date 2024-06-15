@@ -22,6 +22,7 @@
 - 👯 I’m looking to collaborate on a WebSite
 
 <h3> BADGES </h3>
+
 ![AWS Cloud Quest: Cloud Practitioner](./img/aws-cloud-quest-cloud-practitioner%20(1).png)
 
 <h3 align="left">Connect with me: <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50"> </h3>
