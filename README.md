@@ -17,7 +17,7 @@
 
 - 🔭 I’m currently working on [Holberton-hbnb](https://github.com/CodeKillaPr/holbertonschool-hbnb)
 
-- 🌱 I’m currently learning **Python and javascript**
+- 🌱 I’m currently learning **javascript and Dart**
 
 - 👯 I’m looking to collaborate on a WebSite
 
