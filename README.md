@@ -15,7 +15,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codekillapr&label=VIEWS&color=00bdba&style=flat" alt="codekillapr" /> </p>
 
-- <a href="https://github.com/CodeKillaPr/WrkrApp" style="text-decoration: none;">🔭 I’m currently working on WRKRAPP</a>
+- <a href="https://github.com/CodeKillaPr/wrkr" style="text-decoration: none;">🔭 I’m currently working on WRKRAPP</a>
 
 - 🌱 I’m currently learning **javascript and Dart**
 
