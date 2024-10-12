@@ -46,9 +46,8 @@
 <a href="https://git-scm.com/" target="_blank"> <img src="https://cutt.ly/2DqbVgb" alt="git" width="50" height="50"/> </a>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=codekillapr&show_icons=true&title_color=00ffd5&text_color=00ffee&locale=en&layout=compact" alt="codekillapr" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=codekillapr&show_icons=true&theme=dark&title_color=00ffd5&text_color=00ffee&locale=en&layout=compact" alt="codekillapr" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codekillapr&show_icons=true&title_color=00ffee&text_color=00fbff&locale=en" alt="codekillapr" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codekillapr&show_icons=true&theme=dark&title_color=00ffee&text_color=00fbff&locale=en" alt="codekillapr" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codekillapr&" alt="codekillapr" /></p>
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codekillapr&theme=dark" alt="codekillapr" /></p>
