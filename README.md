@@ -46,7 +46,7 @@
 <a href="https://git-scm.com/" target="_blank"> <img src="https://cutt.ly/2DqbVgb" alt="git" width="50" height="50"/> </a>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=codekillapr&show_icons=true&theme=dark&title_color=00ffe1&text_color=00ffe1&locale=en&layout=compact" alt="codekillapr" /></p>
+<p>![CodeKillaPr GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)</p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codekillapr&show_icons=true&theme=dark&title_color=00fadc&text_color=00ffe1&locale=en" alt="codekillapr" /></p>
 
